@@ -25,25 +25,18 @@ _____
 - Backup: Symantec BackupExec, Symantec NetBackup, Symantec Ghost, Microsoft DPM, Paragon.  
   
 ## PROFESSIONAL EXPERIENCE  
-_____
 
 **NIKO MANAGEMENT — 2013 to 2015**  
 **Senior System Administrator (2013 to 2015)**  
 
-Hired as a full-time senior system administrator. Provide Windows and Cisco technologies. Also manage Active Directory, System Center, Virtualization and Network Infrastructure.
-Key Contributions:  
+Hired as a full-time senior system administrator. Provide Windows and Cisco technologies. Also manage Active Directory, System Center, Virtualization and Network Infrastructure.  
+**Key Contributions:**  
 -  Design and implementation of «virtual desktop infrastructure» with the use of Hyper-v;  
 -  Improved failover by using Hyper-V cluster;  
 -  Improved control, change management accounts in Active Directory;  
 -  Introduced Microsoft SCOM server monitoring;  
 -  DesignandimplementationofasystembackupSymantecExec2014,compiledscheduleandrecovery plan;  
 -  Configuration and support of network infrastructure, Cisco + security Cisco ASA.  
--  LAN/WAN/NOC Administration
--  Productivity Improvement  
--  Technical Support  
--  Systems Installation,  
-- Configuration & Upgrading  Security Solutions  
--  Database Management  Patches & Updates  
   
 **AGROMARS — 2012 to 2013**  
 **Head of the department of network and connection (2012 to 2013)**  
@@ -67,14 +60,13 @@ Key Contributions:
 -  Design and implementation of a system backup Microsoft DPM, compiled schedule and recovery plan.  
 
 
-ADDITIONAL IT EXPERIENCE
+## ADDITIONAL IT EXPERIENCE
 
-Chain stores Furshet - Department head Windows Servers, 2007-2008
-AUTOTECHNICS company - Senior System Administrator, 2006 to 2007
-X-TEND developer company - Senior System Administrator, 2005 to 2006
+Chain stores Furshet - Department head Windows Servers, 2007-2008  
+AUTOTECHNICS company - Senior System Administrator, 2006 to 2007  
+X-TEND developer company - Senior System Administrator, 2005 to 2006  
 
 ## EDUCATION & TRAINING  
-_____
 
 **Course**  
 -  Securing Networks with Cisco ASA Advanced.  
