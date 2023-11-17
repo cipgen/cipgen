@@ -6,7 +6,7 @@
 • Creation and promotion of Youtube channels  
   
 ## SENIOR SYSTEM ADMINISTRATOR + SECURITY  
-Proven Success in Systems Optimization and Strategic IT Solutions  
+**Proven Success in Systems Optimization and Strategic IT Solutions**  
 
 Accomplished systems administrator with 10 years of experience managing server infrastructures and data- center operations across multiple platforms (Windows, Linux). Effectively plan, install, configure and optimize the IT infrastructure to consistently achieve high availability and performance.
 Experience in the field of information security Microsoft, Cisco. Detailed knowledge of security tools, technologies and best practices.
