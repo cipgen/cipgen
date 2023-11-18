@@ -1,6 +1,6 @@
 <h1 align="center">Yuriy Shkvarеnkо</h1>
 
-🌱 email: shkvarenko@gmail.com 🌱 telegram:@cipgen 🌱
+🌱 email: shkvarenko@gmail.com 🌱 telegram: @cipgen 🌱
 _____
 
 ## FREELANCER — 2015..
