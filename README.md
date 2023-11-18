@@ -1,5 +1,8 @@
 <h1 align="center">Yuriy Shkvarеnkо</h1>
 
+🌱 email: shkvarenko@gmail.com 🌱 telegram:@cipgen 🌱
+_____
+
 ## FREELANCER — 2015..
 • Creation and promotion of mobile games.  
 • Creation and promotion of the Amazon brand  
@@ -46,7 +49,7 @@ Hired as a full-time senior system administrator. Provide Windows and Cisco tech
 -  Installation and configuration Microsoft TMG, as a corporate proxy server;  
 -  Reporting, monitoring tasks employees.
 
-** SUMATRA LTD — 2008 to 2012  
+**SUMATRA LTD — 2008 to 2012**  
 **Senior System Administrator (2008 to 2012)**  
 
 -  Project on server virtualization implemented clustering of resources allocated to the resilience of the entire system;  
